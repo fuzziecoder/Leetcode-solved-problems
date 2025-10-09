@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Queue
 |  |
 | ------- |
@@ -77,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0867-new-21-game) |
+## Greedy
+|  |
+| ------- |
+| [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
