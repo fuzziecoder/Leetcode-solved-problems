@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
