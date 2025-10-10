@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
