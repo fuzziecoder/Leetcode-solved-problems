@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0867-new-21-game) |
+| [0868-push-dominoes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1299-k-concatenation-maximum-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1299-k-concatenation-maximum-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
+| [0868-push-dominoes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0868-push-dominoes) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
+| [0868-push-dominoes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0868-push-dominoes) |
 ## Recursion
 |  |
 | ------- |
