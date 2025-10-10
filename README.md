@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
+| [0403-frog-jump](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
+| [0403-frog-jump](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
