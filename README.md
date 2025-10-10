@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2262-solving-questions-with-brainpower](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
