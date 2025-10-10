@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
@@ -153,15 +156,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
@@ -183,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
