@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
@@ -119,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 ## Sliding Window
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
