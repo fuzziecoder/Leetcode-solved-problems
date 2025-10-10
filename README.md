@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Heap (Priority Queue)
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Graph
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
 | ------- |
