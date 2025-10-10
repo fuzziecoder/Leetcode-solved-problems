@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -173,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Counting
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
