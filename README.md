@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 ## Heap (Priority Queue)
 |  |
