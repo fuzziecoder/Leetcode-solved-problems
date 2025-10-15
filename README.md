@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
