@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
