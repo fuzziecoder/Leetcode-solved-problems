@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
 | [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
 | [3956-trionic-array-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3956-trionic-array-ii) |
 ## Simulation
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,11 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -312,4 +316,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
