@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
 | [3954-maximum-balanced-shipments](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3954-maximum-balanced-shipments) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3948-maximum-number-of-subsequences-after-one-inserting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3948-maximum-number-of-subsequences-after-one-inserting) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Tree
 |  |
