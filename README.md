@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0867-new-21-game) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Probability and Statistics
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
