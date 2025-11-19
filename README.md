@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0368-largest-divisible-subset) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
