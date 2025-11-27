@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
