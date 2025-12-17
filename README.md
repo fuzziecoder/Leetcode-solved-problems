@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3637-count-number-of-balanced-permutations) |
