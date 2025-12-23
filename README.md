@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2054-two-best-non-overlapping-events](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3863-power-grid-maintenance) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0410-split-array-largest-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
+| [2054-two-best-non-overlapping-events](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2054-two-best-non-overlapping-events](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2784-power-of-heroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2784-power-of-heroes) |
