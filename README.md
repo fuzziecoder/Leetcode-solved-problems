@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3032-maximize-value-of-function-in-a-ball-passing-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/3032-maximize-value-of-function-in-a-ball-passing-game) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0044-wildcard-matching) |
 | [0474-ones-and-zeroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
