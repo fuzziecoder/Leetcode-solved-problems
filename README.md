@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0474-ones-and-zeroes) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0867-new-21-game) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1925-count-square-sum-triples](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1925-count-square-sum-triples) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0808-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0840-magic-squares-in-grid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/2174-next-greater-numerically-balanced-number) |
