@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0312-burst-balloons) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/fuzziecoder/Leetcode-solved-problems/tree/master/0840-magic-squares-in-grid) |
